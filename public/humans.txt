@@ -1,0 +1,59 @@
+
+███████╗███╗░░██╗░██████╗██████╗░██╗██████╗░███████╗            
+██╔════╝████╗░██║██╔════╝██╔══██╗██║██╔══██╗██╔════╝            
+█████╗░░██╔██╗██║╚█████╗░██████╔╝██║██████╔╝█████╗░░            
+██╔══╝░░██║╚████║░╚═══██╗██╔═══╝░██║██╔══██╗██╔══╝░░            
+███████╗██║░╚███║██████╔╝██║░░░░░██║██║░░██║███████╗            
+╚══════╝╚═╝░░╚══╝╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝            
+                         Hand-crafted 2022
+
+_______________________________________________________________________________
+
+PEOPLE
+
+This website was hand-crafted by Ecell development team
+
+Karthik S
+Full stack developer, Blockchain enthusiast
+https://github.com/KarthikS373
+
+Deepak Chattwani
+Full stack developer, CP enthusiast
+https://github.com/deep-69bits
+
+Palash Baderia
+Full stack developer
+https://github.com/palashb01
+
+Milind Palaria
+Full stack developer, 3D graphic designer
+https://github.com/Milind-Palaria
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Next js
+https://nextjs.org/
+
+Three js
+https://threejs.org/
+
+Postcss
+https://postcss.org/
+
+Github
+https://github.com/
+
+_______________________________________________________________________________
+
+ASSETS
+
+Google fonts
+https://fonts.google.com/
+
+Icons & SVG
+https://icons8.com/
+
+Images
+https://unsplash.com/
